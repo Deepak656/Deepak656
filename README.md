@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepak656
+- 👋 Hi, I’m Deepak Kumar from Mumbai, India
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Product Developement
