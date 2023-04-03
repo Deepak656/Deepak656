@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Deepak Kumar from Mumbai, India
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning DSA and Node+Express
-- 💞️ I’m looking to collaborate on Product Developement
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me , message me on Linekdin
 
 <!---
