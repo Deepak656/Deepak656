@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Deepak Kumar from Mumbai, India
-- 🌱 I’m currently learning DSA
 - 📫 How to reach me , message me on Linekdin
 
 <!---
