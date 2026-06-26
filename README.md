@@ -8,8 +8,11 @@ On<br>- Building **IITBase** — a niche hiring platform for IIT graduates (Spri
 
 📚 I’m Currently Learning<br>- DSA (pattern-based LeetCode practice — sliding window, graphs, DP, backtracking)<br>- System Design (scalable architectures, distributed systems, real-world case studies)<br>
 
-🎯 What I’m Looking For<br>- Actively applying for SDE-2/SDE-1 Backend roles in Bengaluru (open to relocate)<br>- Looking for teams where I can contribute to real systems, not just maintain code<br>💬 Ask Me About<br>- Backend development (Java, Spring Boot, REST APIs)<br>- Performance optimization (reduced API latency by 60% on large datasets)<br>- Redis caching strategies & DB optimization<br>- Building production-ready backend systems from scratch<br>⚡ Fun Fact<br>I once reduced API latency from ~900ms to ~350ms on a 3M+ record dataset — and got addicted to performance tuning ever since.
+🎯 What I’m Looking For<br>- Actively applying for SDE-2/SDE-1 Backend roles in Bengaluru (open to relocate)<br>- Looking for teams where I can contribute to real systems, not just maintain code<br>
 
+💬 Ask Me About<br>- Backend development (Java, Spring Boot, REST APIs)<br>- Performance optimization (reduced API latency by 60% on large datasets)<br>- Redis caching strategies & DB optimization<br>- Building production-ready backend systems from scratch<br>
+
+⚡ Fun Fact<br>I once reduced API latency from ~900ms to ~350ms on a 3M+ record dataset — and got addicted to performance tuning ever since.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepak9363/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepak01962@gmail.com) 
